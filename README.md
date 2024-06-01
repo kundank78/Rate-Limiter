@@ -2,8 +2,7 @@ Rate Limiter
 ==========
 
 This package offers a Go implementation of Rate Limit Token Bucket and Sliding Window algorithms. 
-It also includes support for a Redis-backed sliding window approach, utilizing the sorted sets data structure for distributed rate limiting.
----
+It also supports a Redis-backed sliding window approach, utilizing the sorted sets data structure for distributed rate limiting.
 
 ### Usage
 
